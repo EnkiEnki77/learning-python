@@ -12,3 +12,10 @@ speed_description = "5"
 
 #Languages that arent dynamically typed such as Python or Javascript are statically typed such as GO or Typescript. This 
 #means a type error occurs when a variable is attempted to be assigned a new type. 
+
+
+#The only benefit dynamically typed languages had over statically typed ones in the past was the benefit of simpler syntax
+#allowing you to wrtie code more quickly. Nowadays though dynamically typed languages are overall just superior though
+#Through type inference dynamically typed languages no longer have to utilize verbose syntax, it can be just as simple as
+#with dynamically typed languages.
+
