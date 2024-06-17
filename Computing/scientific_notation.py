@@ -15,3 +15,7 @@ print(num3)
 
 # e and then a positive number moves a number forward in decimal places, a negative number moves it back decimal places. 
 
+
+# Python also allows you to write numbers with an underscore as the delimiter for readability 
+
+num4 = 16_000_000
